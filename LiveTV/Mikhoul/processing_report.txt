@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-10 21:56:31
+Generated: 2026-09-11 21:58:03
 ============================================================
 
 PROCESSING STATISTICS
@@ -11,9 +11,9 @@ Parsing Errors: 0
 Urls Validated: 954
 Active Urls: 764
 Geo Blocked Urls: 121
-Validation Time: 179.82914924621582
+Validation Time: 173.33428311347961
 Inactive By Error: {'http_404': 103, 'http_503': 10, 'inactive': 47, 'invalid_content': 17, 'http_502': 1, 'http_400': 6, 'http_504': 5, 'http_500': 1}
-Total Processing Time: 188.15877389907837
+Total Processing Time: 187.54270124435425
 Final Channel Count: 764
 Source Urls Processed: 8
 Total Skipped Urls: 107
@@ -82,8 +82,8 @@ True Crime: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Educatif: 1 channels
-Réréalité: 1 channels
 Film: 1 channels
+Réréalité: 1 channels
 Comedie: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
@@ -93,18 +93,18 @@ Etrangère: 1 channels
 Education;Kids: 1 channels
 Legislative: 1 channels
 Animation;Kids: 1 channels
-Comedy;Movies: 1 channels
-Outdoor;Sports: 1 channels
-Documentary;Series: 1 channels
 Auto: 1 channels
-Relax: 1 channels
-Shop: 1 channels
 Classic;Movies: 1 channels
-Weather: 1 channels
+Outdoor;Sports: 1 channels
+Comedy;Movies: 1 channels
+Relax: 1 channels
 Comedy;Series: 1 channels
+Weather: 1 channels
+Shop: 1 channels
+Documentary;Series: 1 channels
 Hit TV: 1 channels
-Drama TV, Movies: 1 channels
 Hit TV, Game Shows: 1 channels
+Drama TV, Movies: 1 channels
 International: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
